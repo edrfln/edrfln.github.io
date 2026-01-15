@@ -1,0 +1,14 @@
+baseURL = 'https://edrfln.github.io/'
+languageCode = 'en-us'
+title = 'Rosa - Backend Engineer'
+theme = 'terminal'
+
+[params]
+  typingText = ["Rosa", "Backend Software Engineer"]
+  favicon = "favicon.png"
+
+[menu]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
